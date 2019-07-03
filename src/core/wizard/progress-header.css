@@ -1,0 +1,33 @@
+.progress-bar {
+  background-color: grey;
+  height: 30px;
+}
+
+.progress-bar-shadow {
+  background-color: lightgrey;
+  height: 30px;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+
+.step-0 {
+  width: 0%;
+}
+
+.step-1 {
+  width: 25%;
+}
+
+.step-2 {
+  width: 50%;
+}
+
+.step-3 {
+  width: 75%;
+}
+
+.step-4 {
+  width: 100%;
+}
+

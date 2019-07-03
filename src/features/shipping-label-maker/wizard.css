@@ -1,0 +1,44 @@
+.base-input {
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 9px;
+  font-size: 14px;
+  display: block;
+  width: 80%;
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
+
+.form {
+  background-color: #fff;
+  max-width: 700px;
+  width: 100%;
+  padding: 15px 15px 0 15px;
+  margin: 0 auto;
+  border-radius: 5px;
+  min-height: 265px;
+}
+
+.container {
+  background-color: rgb(121,162,239);
+  height: 100vh;
+}
+
+.prev-next-btns {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.prev-next-btns button {
+  padding: 6px 18px;
+  border-radius: 3px;
+  margin-right: 8px;
+}
+
+.input-label-aligner {
+  display:flex; 
+  flex-direction: row; 
+  justify-content: center; 
+  align-items: center;
+}
